@@ -413,8 +413,8 @@ nav {
   background: rgba(146, 122, 122, 0.171);
   left: 95%;
   top: 128px;
-  height: 10vh;
-  border-radius: 8px;
+  height: 8vh;
+  border-radius: 3px;
   border: #575757 1px solid;
 }
 
@@ -424,9 +424,10 @@ nav {
 }
 
 .details ul li {
-  font-size: 30px;
+  font-size: 25px;
   padding-left: 18px;
   padding-top: 12px;
+  margin-left: 150px;
 }
 
 .details ul li a {
