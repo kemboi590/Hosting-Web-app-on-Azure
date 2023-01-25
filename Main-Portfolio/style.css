@@ -439,3 +439,34 @@ nav {
   background: rgba(0, 0, 0, 0.418);
   border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+.details_heading { 
+  height: 8vh;
+ 
+}
+
+.details_heading ul {
+  list-style: none;
+  display: flex;
+}
+
+.details_heading ul li {
+  font-size: 29px;
+  padding-left: 40px;
+  padding-top: 50px;
+  margin-left: 30px;
+}
+
+.details_heading ul li a {
+  color: rgba(255, 255, 255, 0.863);
+  text-decoration: none;
+}
+
+
